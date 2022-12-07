@@ -2,8 +2,8 @@
   "Post": {
     "title": {
       "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
+        "minLength": 15,
+        "maxLength": 40
       }
     },
     "body": {
