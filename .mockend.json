@@ -8,8 +8,8 @@
     },
     "body": {
       "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
+        "minLength": 100,
+        "maxLength": 500
       }
     },
     "createdAt": {
